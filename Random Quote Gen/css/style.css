@@ -1,0 +1,36 @@
+body {
+	background-color: #415242 ;
+	text-align: center;
+}
+
+.box{
+	width: 600px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-size: 50px;
+	background-color: white;
+	position: fixed; 
+  top: 30%;
+  left: 30%;
+}
+
+.btn{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.fa {
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 10px;
+		padding-right: 35px;
+    font-size: 30px;
+    width: 30px;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}

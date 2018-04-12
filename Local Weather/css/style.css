@@ -1,0 +1,25 @@
+body {
+  background-size: cover;
+  background-color: black;
+}
+
+.weather{
+  color: white;
+  font-size: 60px;
+  margin-top: 40px;
+}
+
+p{
+  color: white;
+  font-size: 45px;
+  margin: 10px, 10px, 10px, 10px;
+}
+
+#type{
+  cursor: pointer;
+  color: blue;
+}
+
+#type:hover{
+  color: #040496;
+}
